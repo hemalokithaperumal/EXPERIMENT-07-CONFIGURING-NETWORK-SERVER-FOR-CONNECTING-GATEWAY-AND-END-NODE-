@@ -50,15 +50,6 @@ To set APP Key
 ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
 
 
-![image](https://github.com/user-attachments/assets/88f2b446-6e4b-4088-a4e3-6d00421586f0)
-
-![image](https://github.com/user-attachments/assets/fa2123e7-2d46-4931-aac1-4d321aaf190a)
-
-
-![image](https://github.com/user-attachments/assets/55db58e0-9def-4364-9f3e-9c230bf0f4a1)
-
-![image](https://github.com/user-attachments/assets/9386589c-e7b4-4699-be35-386507a703c3)
-
 ## Results: 
 
   The Network server and end device for traferring data on the network has been accomplished.
